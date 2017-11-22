@@ -26,7 +26,11 @@ github_username:  Velinguard
 
 # Build settings
 markdown: kramdown
+<<<<<<< HEAD
 theme: architect
+=======
+theme: jekyll-theme-architect
+>>>>>>> 0e70b4e74e2128b7358443fa2a8c9083dbbdd461
 plugins:
   - jekyll-feed
 
